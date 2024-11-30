@@ -5,6 +5,14 @@ Please Visit, Like(If you really Like 😃🤓) & Subscribe for more content.
 
 I intend to build Full Stack Apps and explain the philosohy around it using ground up tutorials on every topic & provide opportunities for Micro Learning along the way.
 
+## Youtube Channel
+
+https://www.youtube.com/@srinivaspradhan
+
+### Relevant Channel Links
+
+ - [About This Channel | Srinivas Pradhan](https://www.youtube.com/watch?v=47P5Fql-6DU)
+
 ## Shorts Folder.
 
 This folder has working examples of terraform functions. These is an example for each function ever addressed on my channel there in its specific folder.
