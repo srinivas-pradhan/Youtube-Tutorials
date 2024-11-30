@@ -12,6 +12,8 @@ https://www.youtube.com/@srinivaspradhan
 ### Relevant Channel Links
 
  - [About This Channel | Srinivas Pradhan](https://www.youtube.com/watch?v=47P5Fql-6DU)
+ - [Series - Serverless App Design](https://www.youtube.com/playlist?list=PLcgwIVZWZ9WhcoaGaChgK-efBa8GiFUsl)
+ - [Let's Learn Something](https://www.youtube.com/playlist?list=PLcgwIVZWZ9WhLa4ZUXZb3-_smGQeF1w1G)
 
 ## Shorts Folder.
 
