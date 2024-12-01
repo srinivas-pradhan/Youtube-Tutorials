@@ -28,7 +28,7 @@ terraform apply --auto-approve
 
 #### Current Function Types Covered on the Channel
   - [Numeric Functions / num_func](https://github.com/srinivas-pradhan/Youtube-Tutorials/tree/main/shorts/num_func)
-
+  - [String Functions / str_func](https://github.com/srinivas-pradhan/Youtube-Tutorials/tree/main/shorts/str_func)
 
 ### Example Output of Max Function
 
