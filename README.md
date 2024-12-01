@@ -22,9 +22,13 @@ This folder has working examples of terraform functions. These is an example for
 ### You can use that example to learn / explore more doing the following.
 
 ```
-cd shorts/[relevant_folder_of_choice]
+cd shorts/[func_type]/[relevant_folder_of_choice]
 terraform apply --auto-approve
 ```
+
+#### Current Function Types Covered on the Channel
+  - [Numeric Functions / num_func] ()
+
 
 ### Example Output of Max Function
 
